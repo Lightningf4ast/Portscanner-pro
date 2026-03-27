@@ -140,11 +140,6 @@ Unlike basic scanners, this project includes:
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
----
 
 ## ⭐ Contributing
 
