@@ -37,7 +37,7 @@ This project demonstrates real-world engineering concepts including:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/port-scanner-pro.git
+git clone https://github.com/Lightningf4ast/Portscanner-pro.git
 cd port-scanner-pro
 ```
 
