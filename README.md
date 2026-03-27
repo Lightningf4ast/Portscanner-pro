@@ -18,8 +18,6 @@ This project demonstrates real-world engineering concepts including:
 * Network socket handling
 * Clean modular architecture
 
-It is built as a **resume-level cybersecurity project** to showcase practical skills in networking and software design.
-
 ---
 
 ## ✨ Key Features
@@ -31,33 +29,6 @@ It is built as a **resume-level cybersecurity project** to showcase practical sk
 * 📊 **Progress Tracking** — real-time scan updates
 * 💾 **Export Results** — save scans as TXT and JSON
 * 🧱 **Modular Codebase** — clean separation of logic (core, GUI, utils)
-
----
-
-## 🧱 Project Structure
-
-```
-port_scanner_pro/
-│
-├── main.py                 # GUI entry point
-├── cli.py                  # CLI scanner
-├── requirements.txt
-├── README.md
-│
-├── core/                   # Core logic
-│   ├── scanner_async.py
-│   ├── scanner_thread.py
-│   ├── banner.py
-│   ├── service.py
-│   ├── exporter.py
-│
-├── gui/                    # GUI application
-│   └── app.py
-│
-├── output/                 # Saved results
-│
-└── assets/                 # Screenshots
-```
 
 ---
 
@@ -113,22 +84,6 @@ Port Range: 7900–8100
 
 ```
 [OPEN] 8000 (HTTP)
-```
-
----
-
-## 📸 Screenshot
-
-Add your GUI screenshot:
-
-```
-assets/gui.png
-```
-
-Then display it:
-
-```md
-![GUI](assets/gui.png)
 ```
 
 ---
