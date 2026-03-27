@@ -38,7 +38,7 @@ This project demonstrates real-world engineering concepts including:
 
 ```bash
 git clone https://github.com/Lightningf4ast/Portscanner-pro.git
-cd port-scanner-pro
+cd Portscanner-pro
 ```
 
 ### 2️⃣ Install Dependencies
